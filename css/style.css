@@ -1,0 +1,13 @@
+body {
+    background: #000;
+    margin: 0;
+ }
+
+.game-info {
+    display: flex;
+    width: 320px;
+    margin: 50px auto;
+    justify-content: space-between;
+    color: white;
+    font-size: 24px;
+}

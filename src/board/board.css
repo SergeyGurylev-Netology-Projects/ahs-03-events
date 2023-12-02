@@ -1,0 +1,20 @@
+.board-container {
+    margin-top: 50px;
+}
+
+.board-row {
+    display: flex;
+    justify-content: center;
+}
+
+.board-cell {
+    width: 80px;
+    height: 80px;
+    border: orange solid 1px;
+    background: green;
+}
+
+.monster {
+    background: url('../img/goblin.png') green no-repeat center;
+    background-size: 70%;
+}
